@@ -1,0 +1,27 @@
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.AssemblyInfoInputs.cache
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.AssemblyInfo.cs
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.csproj.CoreCompileInputs.cache
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.csproj.AssemblyReference.cache
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\libgcc_s_seh-1.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\libstdc++-6.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\libvosk.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\libwinpthread-1.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NTP4 odev.exe
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NTP4 odev.deps.json
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NTP4 odev.runtimeconfig.json
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NTP4 odev.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NTP4 odev.pdb
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.Asio.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.Core.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.Midi.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.Wasapi.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\NAudio.WinMM.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\bin\Debug\net8.0\Vosk.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.csproj.Up2Date
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\refint\NTP4 odev.dll
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.pdb
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\NTP4 odev.genruntimeconfig.cache
+C:\Users\Mert Can Yücedağ\Desktop\Speech to text NTP4\NTP4 odev\NTP4 odev\obj\Debug\net8.0\ref\NTP4 odev.dll
